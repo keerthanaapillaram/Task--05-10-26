@@ -1,6 +1,6 @@
 # Task_05-10-26
 
-## Task 1-Swag Labs
+## Swag Labs
 ### Program
 ```
 from selenium import webdriver
@@ -37,7 +37,7 @@ driver.quit()
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/42bf64c7-c6cb-4a77-bfe3-a5a55c4268ef" />
 
 
-## Task 2-Flipkart 
+## Flipkart login page
 ### Program
 ```
 import time
